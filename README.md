@@ -16,15 +16,5 @@ This website serves as an example project to demonstrate the following DevOps pr
 - Example for **GitHub SCM** integration for automated container creation.
 - A static website to demonstrate the concept of DevOps deployment.
 
-## Tech Stack
 
-- **Node.js**: The web application is built with Node.js.
-  
-## Node.js Version
-
-- Node.js version: **v16.x.x**
-
-## File Structure
-
-The project follows a simple structure:
 
