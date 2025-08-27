@@ -1,10 +1,8 @@
 # DevOps Project Website
 
-<p align="center">
-  <a href="https://sindhujashaga.github.io/End-to-End-Frontend-Deployment/>
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Veiw React App"/>
-  </a>
-</p>
+<a href="https://sindhujashaga.github.io/End-to-End-Frontend-Deployment/">
+    <img src="https://img.shields.io/badge/[Click20%here20%!]-255E63?style=for-the-badge&logo=website&logoColor=white" alt="[View Application]">
+</a>
 
 This repository contains a **simple Node.js web application** designed for showcasing DevOps skills. It is used as part of a **CI/CD pipeline** to demonstrate how DevOps practices are integrated with modern tools.
 
